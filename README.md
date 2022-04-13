@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> Book Bike Electric Scooter Data Analysis
 
 
 ## Table of Contents
@@ -11,38 +11,35 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- A bike-sharing system is a service and data analysis been conducting using various EDA technics to assess the demand
+- This project provide clarity about demand of bikes how it vary based on several variables 
+- Which variables are significant in predicting the demand for shared bikes.
+- How well those variables describe the bike demands
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Demand is higher in month of 3,4, 5 , 6, 8, 9 ,7 and 10
+- Demand decreases if it is holiday , Spring, Light rain_Light snow_Thunderstorm, Mist_cloudy, Sunday
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- library - sklearn
+- library - statsmodels
+- library - LinearRegression
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by Upgrade AI & ML program
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@kaviprakashm] - feel free to contact me!
 
 
 <!-- Optional -->
